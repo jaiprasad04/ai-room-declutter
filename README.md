@@ -1,9 +1,9 @@
-# 🏠 AI Room Declutter — FutureRoom AI SaaS
+# 🏠 AI Room Declutter — Open-Source AI Room Declutter & Interior Redesign SaaS (Free RoomGPT / Reimagine Home Alternative)
 
-> **Instantly declutter and tidy messy rooms, clean visual clutter, and generate minimalist, gorgeous, photorealistic design alternatives.** Upload a photo of a messy room, pick a design preset (Modern Living, Cozy Bedroom, Minimalist Office), and view a photorealistic cleaned interior using Google DeepMind's `nano-banana-2-edit` and `nano-banana-pro-edit` models. A production-ready, self-hostable Next.js SaaS.
+> **Instantly transform messy rooms into photorealistic clean interiors with AI.** A production-ready, self-hostable Next.js SaaS boilerplate with design style presets, webhook-backed async generation, and built-in Stripe billing. A free open-source alternative to RoomGPT, Reimagine Home, AI Interior, and Decor Matters — powered by the MuAPI AI engine.
 
-**Tech stack:** Next.js 16 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS (v4) · MuAPI (nano-banana) · Webhook-backed async delivery  
-**Use cases:** Real estate staging · Interior design planning · Home organization ideas · Digital staging portfolios
+**Tech stack:** Next.js 14 (App Router) · Prisma · PostgreSQL · NextAuth (Google OAuth) · Stripe · Tailwind CSS · MuAPI nano-banana-2-edit · Webhook-backed async delivery
+**Use cases:** Home staging · Interior design visualization · Real estate marketing · Rental property refresh · Airbnb listing photos · Home renovation planning · Interior design agencies · Virtual home makeovers
 
 ![FutureRoom AI Interface](https://cdn.muapi.ai/data/2/953940679503/Screenshot_2026-05-29_191552.png)
 
