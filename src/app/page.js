@@ -56,7 +56,7 @@ const PRESETS = [
     label: "Bohemian Dining",
     type: "Dining Room",
     image:
-      "https://images.unsplash.com/photo-1617806118233-18e1db207f62?q=80&w=600",
+      "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=600",
     description: "Clean dining table and set up elegant bohemian dining ware.",
     prompt:
       "Declutter this dining room table. Remove all dirty plates, leftover food, and trash. Render a clean dining area with a polished wooden table, elegant bohemian tableware, and natural plant decorations. Soft window light, photorealistic.",

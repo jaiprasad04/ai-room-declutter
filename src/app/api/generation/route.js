@@ -9,7 +9,7 @@ const FALLBACK_MAP = {
   "living room": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1200",
   "bedroom": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?q=80&w=1200",
   "office": "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?q=80&w=1200",
-  "dining room": "https://images.unsplash.com/photo-1617806118233-18e1db207f62?q=80&w=1200",
+  "dining room": "https://images.unsplash.com/photo-1617806118233-18e1de247200?q=80&w=1200",
   "loft": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?q=80&w=1200",
   "study": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1200",
   "kitchen": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?q=80&w=1200",
