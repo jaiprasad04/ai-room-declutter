@@ -15,6 +15,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/a834419c-70d9-49c6-9645-2854ef25b0ff
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/ai-room-declutter](https://github.com/SamurAIGPT/ai-room-declutter)
